@@ -1,6 +1,4 @@
 ### Hi there 👋
-![Metrics](https://metrics.lecoq.io/Narushio?template=classic&stars=1&stars.limit=4&config.timezone=Asia%2FShanghai)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narushio&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Narushio&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
