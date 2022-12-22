@@ -5,7 +5,7 @@
 <hr/>
 
 <details>
-<summary>Here is ✨ Yuuguruto ✨</summary>
+<summary>Here is ✨ Cirno ✨</summary>
 
 <p align="center">
   <img src="https://count.getloli.com/get/@Itsuko?theme=rule34"/>
