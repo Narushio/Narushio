@@ -5,7 +5,7 @@
 <hr/>
 
 <details>
-<summary>Here is ✨ Cirno ✨</summary>
+<summary>Here is ✨ Tanatos ✨</summary>
 
 <p align="center">
   <img src="https://count.getloli.com/get/@Itsuko?theme=rule34"/>
