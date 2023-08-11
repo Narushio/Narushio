@@ -5,7 +5,7 @@
 <hr/>
 
 <details>
-<summary>Here is ✨ Tanatos ✨</summary>
+<summary>Here is ✨ Aiken ✨</summary>
 
 <p align="center">
   <img src="https://count.getloli.com/get/@Itsuko?theme=rule34"/>
