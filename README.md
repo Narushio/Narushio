@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/55282572/253014913-9536c1d5-a97a-42b6-bde3-6636904d2c68.png" />
+  <img src="https://github.com/Narushio/Narushio/assets/55282572/88d75c15-8f1e-4e88-a52d-48e4170a82e0" />
+
 </p>
 
 <hr/>
