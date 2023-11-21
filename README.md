@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=narushio&title=Stars,Followers,PullRequest,Commits,Repositories,Issues&no-frame=true&margin-w=10" alt="GitHub profile trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Narushio" alt="GitHub profile trophy"/>
 </p>
 
 <hr/>
