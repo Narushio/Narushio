@@ -6,7 +6,7 @@
 <hr/>
 
 <details>
-<summary>Here is ✨ Aiken ✨</summary>
+<summary>Here is ✨ Yancey ✨</summary>
 
 <p align="center">
   <img src="https://count.getloli.com/get/@Itsuko?theme=rule34"/>
