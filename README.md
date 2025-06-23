@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Narushio" alt="GitHub streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Narushio&theme=dark" alt="GitHub streak stats"/>
 </p>
 
 <p align="center">
