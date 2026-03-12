@@ -1,14 +1,4 @@
 <p align="center">
-  <img src="https://github.com/Narushio/Narushio/assets/55282572/88d75c15-8f1e-4e88-a52d-48e4170a82e0" />
-
-</p>
-
-<hr/>
-
-<details>
-<summary>Here is ✨ Yancey ✨</summary>
-
-<p align="center">
   <img src="https://count.getloli.com/get/@Itsuko?theme=rule34"/>
 </p>
 
@@ -16,17 +6,15 @@
   <img src="https://streak-stats.demolab.com/?user=Narushio&theme=dark" alt="GitHub streak stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Narushio" alt="GitHub profile trophy"/>
-</p>
-
 <hr/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/FastAPI-009485.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
+  <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQl">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
 </p>
 
 <p align="center">
@@ -56,5 +44,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narushio&layout=compact" alt="Yancey's GitHub langs"/>
 </p>
-
-</details>
