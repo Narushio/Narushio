@@ -44,16 +44,3 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Narushio&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/9ebc161e-ac53-48a3-9f43-3bfa35eff268)
-<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"></svg>
-
-</div>
-
----
