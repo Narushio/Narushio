@@ -36,3 +36,9 @@
 </p>
 
 </div>
+
+<div align="center">
+
+<img alt="galaga contribution graph" src="https://raw.githubusercontent.com/Narushio/Narushio/output/galaga-contribution-graph-dark.svg">
+
+</div>
